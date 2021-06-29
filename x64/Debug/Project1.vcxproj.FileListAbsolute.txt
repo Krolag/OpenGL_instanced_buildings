@@ -1,0 +1,2 @@
+F:\GameDev\Projects\PAGi\03\Project1\x64\Debug\zadanie3_PAG.exe
+F:\GameDev\Projects\OpenGL_instanced_buildings\x64\Debug\zadanie3_PAG.exe
